@@ -1,9 +1,0 @@
-INDEX VERSION 1.134
-D:\work\OldServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1668616410.index
-\RegisterAndLogin\src
-D:\work\OldServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1127808198.index
-\ServletGetAndPostRedirect\src
-D:\work\OldServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1956895913.index
-\practiceServlets\src
-D:\work\OldServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\98693565.index
-\RegistrationAndLoginPr01\src
